@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/transparent" /> <!-- Transparent center -->
+            <stroke android:width="4dp" android:color="#80AA55AA" /> <!-- Adjust the alpha (e.g., #80 for 50% transparency) and color as needed -->
+        </shape>
+    </item>
+</layer-list>
